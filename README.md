@@ -1,4 +1,4 @@
-# EyeFair
+# Harvard-GF
 
 The dataset and code for the paper entitled *Harvard Glaucoma Fairness (Harvard-GF): A Retinal Nerve Disease Dataset for Fairness Learning and Fair Identity Normalization*.
 
