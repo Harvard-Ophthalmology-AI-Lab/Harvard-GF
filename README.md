@@ -4,9 +4,9 @@ The dataset and code for the paper entitled *Harvard Glaucoma Fairness (Harvard-
 
 # Dataset
 
-The RNFLT maps with labels and social identies can be accessed via this [link](https://doi.org/10.7910/DVN/A4XMO1).
+The RNFLT maps with labels and social identities can be accessed via this [link](https://drive.google.com/drive/folders/1-38HdWTqR4RH5GYT4bBtYu5ADUTN98Gk?usp=drive_link).
 
-The glaucoma data of 3300 patients includes 3300 OCT RNFLT maps (dimension 200x200x200). The visual field, patient age, sex, race, glaucoma label information are also included in the data. 2100 samples are for training, 300 samples for validation, and 900 samples for testing.
+The glaucoma data of 3300 patients includes 3300 OCT RNFLT maps (dimensions 200x200x200). The visual field, patient age, sex, race, glaucoma label information are also included in the data. 2100 samples are for training, 300 samples for validation, and 900 samples for testing.
 
 Each data contains the following attributes:
 1) rnflt: OCT RNFLT map of size 200x200.
