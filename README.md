@@ -41,3 +41,15 @@ To run the experiments, execute the scripts in [scripts](./scripts), e.g.,
 ```
 ./scripts/train_glaucoma_fair_fin.sh
 ```
+## Acknowledgement & Citation
+
+
+If you find this repo useful for your research, please consider citing our [paper](https://arxiv.org/abs/2310.02492):
+
+```bibtex
+@article{luo2023harvard,
+  title={Harvard Glaucoma Fairness: A Retinal Nerve Disease Dataset for Fairness Learning and Fair Identity Normalization},
+  author={Luo, Yan and Tian, Yu and Shi, Min and Elze, Tobias and Wang, Mengyu},
+  journal={arXiv preprint arXiv:2306.09264},
+  year={2023}
+}
