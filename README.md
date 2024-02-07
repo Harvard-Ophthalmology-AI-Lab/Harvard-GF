@@ -44,7 +44,7 @@ To run the experiments, execute the scripts in [scripts](./scripts), e.g.,
 ## Acknowledgement & Citation
 
 
-If you find this repo useful for your research, please consider citing our [paper](https://arxiv.org/abs/2310.02492):
+If you find this repo useful for your research, please consider citing our [paper](https://arxiv.org/abs/2306.09264):
 
 ```bibtex
 @article{luo2023harvard,
