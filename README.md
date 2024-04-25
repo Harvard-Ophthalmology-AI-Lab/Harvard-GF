@@ -1,6 +1,6 @@
 # Harvard-GF
 
-The dataset and code for the paper entitled [**Harvard Glaucoma Fairness: A Retinal Nerve Disease Dataset for Fairness Learning and Fair Identity Normalization**](https://arxiv.org/abs/2306.09264). The abbreviation of our dataset is **Harvard-GF**, which stands for Harvard Glaucoma Fairness. Note that, the modifier word “Harvard” only indicates that our dataset is from the Department of Ophthalmology of Harvard Medical School and does not imply an endorsement, sponsorship, or assumption of responsibility by either Harvard University or Harvard Medical School as a legal identity.
+The dataset and code for the paper entitled [**Harvard Glaucoma Fairness: A Retinal Nerve Disease Dataset for Fairness Learning and Fair Identity Normalization**](https://ieeexplore.ieee.org/abstract/document/10472539). The abbreviation of our dataset is **Harvard-GF**, which stands for Harvard Glaucoma Fairness. Note that, the modifier word “Harvard” only indicates that our dataset is from the Department of Ophthalmology of Harvard Medical School and does not imply an endorsement, sponsorship, or assumption of responsibility by either Harvard University or Harvard Medical School as a legal identity.
 
 # Dataset
 
@@ -44,12 +44,12 @@ To run the experiments, execute the scripts in [scripts](./scripts), e.g.,
 ## Acknowledgement & Citation
 
 
-If you find this repository useful for your research, please consider citing our [paper](https://arxiv.org/abs/2306.09264):
+If you find this repository useful for your research, please consider citing our [paper](https://ieeexplore.ieee.org/abstract/document/10472539):
 
 ```bibtex
-@article{luo2023harvard,
+@article{luo2024harvard,
   title={Harvard Glaucoma Fairness: A Retinal Nerve Disease Dataset for Fairness Learning and Fair Identity Normalization},
   author={Luo, Yan and Tian, Yu and Shi, Min and Elze, Tobias and Wang, Mengyu},
-  journal={arXiv preprint arXiv:2306.09264},
+  journal={IEEE Transactions on Medical Imaging},
   year={2023}
 }
