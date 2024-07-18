@@ -47,9 +47,13 @@ To run the experiments, execute the scripts in [scripts](./scripts), e.g.,
 If you find this repository useful for your research, please consider citing our [paper](https://ieeexplore.ieee.org/abstract/document/10472539):
 
 ```bibtex
-@article{luo2024harvard,
-  title={Harvard Glaucoma Fairness: A Retinal Nerve Disease Dataset for Fairness Learning and Fair Identity Normalization},
-  author={Luo, Yan and Tian, Yu and Shi, Min and Elze, Tobias and Wang, Mengyu},
-  journal={IEEE Transactions on Medical Imaging},
-  year={2023}
-}
+@ARTICLE{10472539,
+  author={Luo, Yan and Tian, Yu and Shi, Min and Pasquale, Louis R. and Shen, Lucy Q. and Zebardast, Nazlee and Elze, Tobias and Wang, Mengyu},
+  journal={IEEE Transactions on Medical Imaging}, 
+  title={Harvard Glaucoma Fairness: A Retinal Nerve Disease Dataset for Fairness Learning and Fair Identity Normalization}, 
+  year={2024},
+  volume={43},
+  number={7},
+  pages={2623-2633},
+  keywords={Glaucoma;Biomedical imaging;Data models;Finance;Three-dimensional displays;Medical services;Measurement;AI for eye disease screening;equitable deep learning;fairness learning},
+  doi={10.1109/TMI.2024.3377552}}
