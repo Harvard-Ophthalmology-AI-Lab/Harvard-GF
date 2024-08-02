@@ -4,7 +4,7 @@ The dataset and code for the paper entitled [**Harvard Glaucoma Fairness: A Reti
 
 # Dataset
 
-The dataset can be accessed via this [link](https://drive.google.com/drive/folders/1-38HdWTqR4RH5GYT4bBtYu5ADUTN98Gk?usp=drive_link). This dataset can only be used for non-commercial research purposes. At no time, the dataset shall be used for clinical decisions or patient care. The data use license is [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). If you have any questions about this dataset, please email [harvardophai@gmail.com](harvardophai@gmail.com).
+The dataset can be accessed via this [link](https://drive.google.com/drive/folders/1-38HdWTqR4RH5GYT4bBtYu5ADUTN98Gk?usp=drive_link). This dataset can only be used for non-commercial research purposes. At no time, the dataset shall be used for clinical decisions or patient care. The data use license is [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). If you have any questions about this dataset, please email <harvardophai@gmail.com>.
 
 The glaucoma data of 3,300 patients includes 3,300 OCT RNFLT maps (dimensions 200 x 200 x 200). The visual field, patient age, sex, race, and glaucoma label information are also included in the data. 2100 samples are for training, 300 samples for validation, and 900 samples for testing. A unique strength of this dataset is that we have equal numbers for the three racial groups Asian, Black, and White.
 
