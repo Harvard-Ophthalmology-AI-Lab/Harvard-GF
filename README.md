@@ -1,6 +1,6 @@
 # Harvard-GF
 
-The dataset and code for the paper entitled [**Harvard Glaucoma Fairness: A Retinal Nerve Disease Dataset for Fairness Learning and Fair Identity Normalization**](https://ieeexplore.ieee.org/abstract/document/10472539). The abbreviation of our dataset is **Harvard-GF**, which stands for Harvard Glaucoma Fairness. Note that, the modifier word “Harvard” only indicates that our dataset is from the Department of Ophthalmology of Harvard Medical School and does not imply an endorsement, sponsorship, or assumption of responsibility by either Harvard University or Harvard Medical School as a legal identity.
+The code and dataset for the paper entitled [**Harvard Glaucoma Fairness: A Retinal Nerve Disease Dataset for Fairness Learning and Fair Identity Normalization**](https://ieeexplore.ieee.org/abstract/document/10472539). The abbreviation of our dataset is **Harvard-GF**, which stands for Harvard Glaucoma Fairness. Note that, the modifier word “Harvard” only indicates that our dataset is from the Department of Ophthalmology of Harvard Medical School and does not imply an endorsement, sponsorship, or assumption of responsibility by either Harvard University or Harvard Medical School as a legal identity.
 
 # Dataset
 
